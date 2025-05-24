@@ -338,6 +338,9 @@
 53. Lost and found as a web app.
 
 ## More Project Ideas
-- https://codingchallenges.fyi/challenges/challenge-redis-cli
-- https://github.com/codecrafters-io/build-your-own-x
+- [Coding Challenges: Build Your Own](https://codingchallenges.fyi/challenges/intro)
+- [Build your own <insert-technology-here>
+](https://github.com/codecrafters-io/build-your-own-x)
+- [🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions 🚀
+](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a)
 
