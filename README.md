@@ -7,3 +7,4 @@
   - [How to use cppreference](https://www.learncpp.com/cpp-tutorial/using-a-language-reference/)
 - [Compiler Explorer](https://godbolt.org/)
 - [C++ Benchmark](https://quick-bench.com/)
+- [C++ Insights](https://quick-bench.com/)
